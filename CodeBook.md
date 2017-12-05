@@ -141,58 +141,58 @@
 
 #### **FREQUENCY DOMAIN VARIABLES:**
 
-####**freqBodyAccMeanX**
-#####Mean of the Body Acceleration signal means on the X Axis
-####**freqBodyAccMeanY**
-#####Mean of the Body Acceleration signal means on the Y Axis
-####**freqBodyAccMeanZ**
-#####Mean of the Body Acceleration signal means on the Z Axis
-####**freqBodyAccStdX**
-#####Mean of the Body Acceleration signal Standard Deviation means on the X Axis 
-####**freqBodyAccStdY**
-#####Mean of the Body Acceleration signal Standard Deviation means on the Y Axis 
-####**freqBodyAccStdZ**
-#####Mean of the Body Acceleration signal Standard Deviation means on the Z Axis 
-####**freqBodyAccJerkMeanX**
-#####Mean of the Jerk of the Body Acceleration signal means on the X axis 
-####**freqBodyAccJerkMeanY**
-#####Mean of the Jerk of the Body Acceleration signal means on the Y axis 
-####**freqBodyAccJerkMeanZ**
-#####Mean of the Jerk of the Body Acceleration signal means on the Z axis 
-####**freqBodyAccJerkStdX**
-#####Mean of the Jerk of the Body Acceleration signal Standard Deviation means on the X axis
-####**freqBodyAccJerkStdY**
-#####Mean of the Jerk of the Body Acceleration signal Standard Deviation means on the Y axis
-####**freqBodyAccJerkStdZ**
-#####Mean of the Jerk of the Body Acceleration signal Standard Deviation means on the Z axis
-####**freqBodyGyroMeanX**
-#####Mean of the Body angular velocity signal means on the X Axis 
-####**freqBodyGyroMeanY**
-#####Mean of the Body angular velocity signal means on the Y Axis 
-####**freqBodyGyroMeanZ**
-#####Mean of the Body angular velocity signal means on the Z Axis 
-####**freqBodyGyroStdX**
-#####Mean of the Body angular velocity signal Standard Deviation means on the X Axis
-####**freqBodyGyroStdY**
-#####Mean of the Body angular velocity signal Standard Deviation means on the Y Axis
-####**freqBodyGyroStdZ**
-#####Mean of the Body angular velocity signal Standard Deviation means on the Z Axis
-####**freqBodyAccMagMean**
-#####Mean of the Body Acceleration signal Magnitude means
-####**freqBodyAccMagStd**
-#####Mean of the Body Acceleration signal Magnitude Standard Deviation means  
-####**freqBodyAccJerkMagMean**
-#####Mean of the Jerk of the Body Acceleration signal Magnitude means 
-####**freqBodyAccJerkMagStd**
-#####Mean of the Jerk of the Body Acceleration signal Magnitude Standard Deviation means 
-####**freqBodyGyroMagMean**
-#####Mean of the Body angular velocity signal Magnitude means
-####**freqBodyGyroMagStd**
-#####Mean of the Body angular velocity signal Magnitude Standard Deviation means
-####**freqBodyGyroJerkMagMean**
-#####Mean of the Jerk of the Body angular velocity signal Magnitude means
-####**freqBodyGyroJerkMagStd**
-#####Mean of the Jerk of the Body angular velocity signal Magnitude Standard Deviation means
+#### **freqBodyAccMeanX**
+##### Mean of the Body Acceleration signal means on the X Axis
+#### **freqBodyAccMeanY**
+##### Mean of the Body Acceleration signal means on the Y Axis
+#### **freqBodyAccMeanZ**
+##### Mean of the Body Acceleration signal means on the Z Axis
+### #**freqBodyAccStdX**
+##### Mean of the Body Acceleration signal Standard Deviation means on the X Axis 
+#### **freqBodyAccStdY**
+##### Mean of the Body Acceleration signal Standard Deviation means on the Y Axis 
+#### **freqBodyAccStdZ**
+##### Mean of the Body Acceleration signal Standard Deviation means on the Z Axis 
+#### **freqBodyAccJerkMeanX**
+##### Mean of the Jerk of the Body Acceleration signal means on the X axis 
+#### **freqBodyAccJerkMeanY**
+##### Mean of the Jerk of the Body Acceleration signal means on the Y axis 
+#### **freqBodyAccJerkMeanZ**
+##### Mean of the Jerk of the Body Acceleration signal means on the Z axis 
+#### **freqBodyAccJerkStdX**
+##### Mean of the Jerk of the Body Acceleration signal Standard Deviation means on the X axis
+#### **freqBodyAccJerkStdY**
+##### Mean of the Jerk of the Body Acceleration signal Standard Deviation means on the Y axis
+#### **freqBodyAccJerkStdZ**
+##### Mean of the Jerk of the Body Acceleration signal Standard Deviation means on the Z axis
+#### **freqBodyGyroMeanX**
+##### Mean of the Body angular velocity signal means on the X Axis 
+#### **freqBodyGyroMeanY**
+##### Mean of the Body angular velocity signal means on the Y Axis 
+#### **freqBodyGyroMeanZ**
+##### Mean of the Body angular velocity signal means on the Z Axis 
+#### **freqBodyGyroStdX**
+##### Mean of the Body angular velocity signal Standard Deviation means on the X Axis
+#### **freqBodyGyroStdY**
+##### Mean of the Body angular velocity signal Standard Deviation means on the Y Axis
+#### **freqBodyGyroStdZ**
+##### Mean of the Body angular velocity signal Standard Deviation means on the Z Axis
+#### **freqBodyAccMagMean**
+##### Mean of the Body Acceleration signal Magnitude means
+#### **freqBodyAccMagStd**
+##### Mean of the Body Acceleration signal Magnitude Standard Deviation means  
+#### **freqBodyAccJerkMagMean**
+##### Mean of the Jerk of the Body Acceleration signal Magnitude means 
+#### **freqBodyAccJerkMagStd**
+##### Mean of the Jerk of the Body Acceleration signal Magnitude Standard Deviation means 
+#### **freqBodyGyroMagMean**
+##### Mean of the Body angular velocity signal Magnitude means
+#### **freqBodyGyroMagStd**
+##### Mean of the Body angular velocity signal Magnitude Standard Deviation means
+#### **freqBodyGyroJerkMagMean**
+##### Mean of the Jerk of the Body angular velocity signal Magnitude means
+#### **freqBodyGyroJerkMagStd**
+##### Mean of the Jerk of the Body angular velocity signal Magnitude Standard Deviation means
 
 
 
